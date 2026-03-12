@@ -1,0 +1,6 @@
+Git GitHub 
+Commands :
+cd - change directory
+mkdir - make directory
+ls - list 
+pwd - print working directory
